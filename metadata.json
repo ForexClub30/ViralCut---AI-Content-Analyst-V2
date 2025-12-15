@@ -1,0 +1,5 @@
+{
+  "name": "ViralCut - AI Content Analyst V2",
+  "description": "An elite viral content analysis tool that uses Gemini AI to scan transcripts, score moments, and generate TikTok-ready metadata and hooks.",
+  "requestFramePermissions": []
+}
